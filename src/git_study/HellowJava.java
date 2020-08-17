@@ -9,6 +9,8 @@ public class HellowJava {
 		System.out.println("Hellow Java");
 		System.out.println("github 연동");
 		
+		System.out.println("A programer");
+		
 	}
 	
 }
