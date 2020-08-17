@@ -6,6 +6,7 @@ public class HellowJava {
 		System.out.println("Hellow World");
 		System.out.println("World's end Dancehall");
 		System.out.println("Earth's End EanceHall");
+		System.out.println("Hellow Java");
 
 	}
 
