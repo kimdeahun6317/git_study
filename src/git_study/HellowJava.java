@@ -10,5 +10,5 @@ public class HellowJava {
 		System.out.println("github 연동");
 		
 	}
-
+	
 }
